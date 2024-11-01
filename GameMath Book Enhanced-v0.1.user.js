@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GameMath Book Enhanced
 // @namespace    http://tampermonkey.net/
-// @version      v0.1
+// @version      0.1
 // @description  try to take over the world!
 // @author       XReaper95
 // @match        https://gamemath.com/book/*

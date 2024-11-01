@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UE Doc go to source
 // @namespace    http://tampermonkey.net/
-// @version      v0.1.0
+// @version      0.1.0
 // @description  Create links in the Unreal Engine C++ API documentation to the source on GitHub. Requires source access.
 // @author       XReaper
 // @match        https://dev.epicgames.com/documentation/en-us/unreal-engine/API/*/*
