@@ -4,7 +4,7 @@
 // @version      0.1.0
 // @description  Create links in the Unreal Engine C++ API documentation to the source on GitHub. Requires source access.
 // @author       XReaper
-// @match        https://dev.epicgames.com/documentation/en-us/unreal-engine/API/*/*
+// @match        https://dev.epicgames.com/documentation/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=epicgames.com
 // @grant        none
 // @run-at       document-idle
