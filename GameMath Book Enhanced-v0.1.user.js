@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GameMath Book Enhanced
-// @namespace    http://tampermonkey.net/
+// @namespace    XReaper Scripts
 // @version      0.1
 // @description  try to take over the world!
 // @author       XReaper95
@@ -9,8 +9,8 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @updateURL    https://github.com/XReaper95/Userscripts/raw/refs/heads/main/GameMath%20Book%20Enhanced-v0.1.user.js
 // @downloadURL  https://github.com/XReaper95/Userscripts/raw/refs/heads/main/GameMath%20Book%20Enhanced-v0.1.user.js
-
 // @grant        none
+
 // ==/UserScript==
 
 (function() {

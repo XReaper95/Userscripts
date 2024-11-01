@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Lesson's audio numeric shorcuts
-// @namespace    http://tampermonkey.net/
+// @namespace    XReaper Scripts
 // @version      0.2
 // @description  change the shortcuts for the lessons's audio to the number row
 // @author       XReaper95
