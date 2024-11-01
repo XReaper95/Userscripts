@@ -8,6 +8,9 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wanikani.com
 // @grant        none
 // @run-at       document-end
+// @updateURL    https://github.com/XReaper95/Userscripts/raw/refs/heads/main/Lesson's%20audio%20numeric%20shorcuts-v0.2.user.js
+// @downloadURL  https://github.com/XReaper95/Userscripts/raw/refs/heads/main/Lesson's%20audio%20numeric%20shorcuts-v0.2.user.js
+
 // ==/UserScript==
 
 (function() {

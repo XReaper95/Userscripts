@@ -11,6 +11,9 @@
 // @license     MIT; http://opensource.org/licenses/MIT
 // @run-at      document-end
 // @grant       none
+// @updateURL    https://github.com/XReaper95/Userscripts/raw/refs/heads/main/Jitai-3.1.2-custom1.user.js
+// @downloadURL  https://github.com/XReaper95/Userscripts/raw/refs/heads/main/Jitai-3.1.2-custom1.user.js\
+
 // ==/UserScript==
 
 /* CUSTOM CHANGELOG (XREAPER)

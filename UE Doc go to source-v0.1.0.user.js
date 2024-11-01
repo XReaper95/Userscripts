@@ -8,6 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=epicgames.com
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://github.com/XReaper95/Userscripts/raw/refs/heads/main/UE%20Doc%20go%20to%20source-v0.1.0.user.js
+// @downloadURL  https://github.com/XReaper95/Userscripts/raw/refs/heads/main/UE%20Doc%20go%20to%20source-v0.1.0.user.js
 
 // @require https://cdn.jsdelivr.net/gh/CoeJoder/waitForKeyElements.js@v1.3/waitForKeyElements.js
 // ==/UserScript==
